@@ -1,2 +1,3 @@
-# think_act_and_learn
-slides and camera-ready for "Think, Act and Learn on An Episodic Memory Graph"
+# Think, Act and Learn on An Episodic Memory Graph
+
+Slides and camera-ready for the beyond-tabula rasa workshop at ICLR 2020.
